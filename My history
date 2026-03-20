@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Slayers of Destiny – Owner History</title>
+  <style>
+    body {
+      background-color: #0a0a0a;
+      color: #f0f0f0;
+      font-family: 'Verdana', sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #ff9900;
+      text-shadow: 0 0 10px #ff9900, 0 0 20px #ff9900;
+      font-size: 2em;
+      border-bottom: 2px solid #ff9900;
+      padding-bottom: 10px;
+    }
+
+    .embed-box {
+      background-color: #111111;
+      border-left: 5px solid #ff9900;
+      padding: 15px 20px;
+      margin: 20px 0;
+      box-shadow: 0 0 15px #ff990033;
+      border-radius: 8px;
+    }
+
+    p {
+      line-height: 1.6;
+      font-size: 1em;
+    }
+
+    .highlight {
+      color: #00ff99;
+      font-weight: bold;
+      text-shadow: 0 0 5px #00ff99;
+    }
+
+    @media (max-width: 600px) {
+      body {
+        padding: 10px;
+      }
+      h1 {
+        font-size: 1.5em;
+      }
+      p {
+        font-size: 0.95em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <h1>OWNER HISTORY – Cx6</h1>
+
+  <div class="embed-box">
+    <p>My journey began in <span class="highlight">2024</span> when I joined the original <span class="highlight">Slayers of Destiny</span>. Through <span class="highlight">consistency</span> and <span class="highlight">discipline</span>, I rose to the position of <span class="highlight">Leader Moderator</span>, taking on a key role within the clan.</p>
+
+    <p>After the clan split, I became the owner of <span class="highlight">PO</span>, leading during a period of <span class="highlight">instability</span>. I initially formed an alliance with <span class="highlight">GA</span> to maintain balance, but as tensions escalated, that alliance broke down and <span class="highlight">GA</span> became an opposing force.</p>
+
+    <p>This period shaped my <span class="highlight">leadership</span>, strengthening my ability to <span class="highlight">manage conflict</span>, <span class="highlight">adapt under pressure</span>, and <span class="highlight">lead with control</span> in competitive environments.</p>
+  </div>
+</body>
+</html>
